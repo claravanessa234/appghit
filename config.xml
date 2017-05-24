@@ -2,7 +2,7 @@
 
  <widget xmlns ="http://www.w3.org/ns/widgets"
    xmlns:gap = "http://phonegap.com/ns/1.0"
-   id = "com.phonegap.example9"
+   id = "com.phonegap.example10"
    version = "1.0.0">
    
   <name> app9 Geolocalizacion</name>
@@ -31,7 +31,7 @@
  <plugin name="cordova-plugin-vibration" spec="~2.1.3" />
  <plugin name="cordova-plugin-dialogs" spec="~1.3.1" />
  
- <!-- <plugin name="cordova-plugin-geolocation" source="npm" /> -->
+  <plugin name="cordova-plugin-geolocation" source="npm" /> 
   <!-- Third part plugins -->
  
  <!--Para accesar a paginas en internet-->
